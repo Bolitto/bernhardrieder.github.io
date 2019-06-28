@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spbre
+title: Sobre
 permalink: /sobre/
 weight: 3
 ---
