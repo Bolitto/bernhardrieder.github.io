@@ -13,3 +13,5 @@ Graduado em Engenharia Química pela Universidade de Guarulhos, pós-graduando e
 <div class="row">
 {% include timeline.html %}
 </div>
+
+<p><a href="https://bolitto.github.io/markdown-cv">Link</a> para a versão completa do currículo.</p>
