@@ -1,17 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Colaborador na ACTANTES | Ação Direta Pela Liberdade
+  from: 2016
+  to: 2017
+  description: Atuação como consultor técnico e oficineiro, em especial no projeto <b>Install Fest</b> (projeto em parceria com a FliSol), evento realizado mensalmente no espaço da Actantes para divulgação da filosofia do software-livre, instalação de distribuições Linux e outros programas livres com enfoque na autonomia e segurança do usuário.
+   
+- title: Estagiário na ETESP | Escola Técnica Estadual de São Paulo
+  from: 2017
+  to: 2017
+  description: Estágiário no laboratório de meio ambiente da escola técnica, onde era feito o acompanhamento das atividades em sala de aula e dos projetos de conclusão de curso, gestão dos materiais químicos do laboratório e elaboração de relatórios.
+            
+- title: Educador e desenvolvedor do Maracá
+  from: 2019
+  to: presente
+  description: Cofundador do Maracá, atuando no processo de desenvolvimento de tecnologias educacionais e realização de atividades experimentais na educação.
+ 
