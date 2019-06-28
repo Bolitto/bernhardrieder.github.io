@@ -11,6 +11,6 @@ description: This project has an individual showcase page, not just a direct lin
 
 ![](https://techcrunch.com/wp-content/uploads/2018/05/screen-shot-2018-05-01-at-11-30-23-am.png?w=1390&crop=1)
 
-<p align=”justify”>O projeto foi laureado com o segundo lugar no prêmio<u><a href="http://www.proguaru.com.br/trabalho-de-funcionario-da-proguaru-e-premiado-pelo-selo-ambiental/"> Selo Ambiental da Prefeitura Municipal de Guarulhos</a></u>, na categoria Iniciativa Científica, e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, <u><a href="http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf">sendo publicado sob a forma de resumo expandido</a></u> no 1° Encontro Nacional ANPPAS Sudeste.</p>
+<p align=”justify”>O projeto foi laureado com o segundo lugar no prêmio<u><a href="http://www.proguaru.com.br/trabalho-de-funcionario-da-proguaru-e-premiado-pelo-selo-ambiental/"> Selo Ambiental da Prefeitura Municipal de Guarulhos</a></u>, na categoria Iniciativa Científica, e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de <u><a href="http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf">resumo expandido</a></u> no 1° Encontro Nacional ANPPAS Sudeste.</p>
 
 ![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
