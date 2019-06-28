@@ -42,12 +42,12 @@
             {% if post.description %}
               {{ post.description }}
             {% else %}
-              {{ post.content | truncatewords: 25, "<small><i>  read more...</i></small>" }}
+              {{ post.content | truncatewords: 25, "<small><i>  leia mais...</i></small>" }}
             {% endif %}
           </p>
         </div>
         <div class="card-footer {{ text_style }}">
-          {{ post.date | date_to_long_string }}
+          {{ post.date | date: "%d/%m/%Y" }}
         </div>
       </a>
     </div>
