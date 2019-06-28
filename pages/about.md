@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Spbre
+permalink: /sobre/
 weight: 3
 ---
 
