@@ -1,7 +1,7 @@
 # Site settings
-title: Bernhard Rieder
+title: Walter Bolitto Carvalho
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there, my name is <b>Bernhard Rieder</b> and I'm a tech enthusiast as well as a passionate game programmer who currently works for Ubisoft Bucharest.
+  Edtech / Jogos sérios / Cultura Maker
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://bolitto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: bernhardrieder
@@ -15,13 +15,13 @@ markdown: kramdown
 
 # Author Info
 author:
-  name     : Bernhard Rieder
+  name     : Walter Bolitto Carvalho
   image    : "/assets/img/me_face.jpg"
-  email    : contact@bernhardrieder.dev
-  github   : bernhardrieder
-  twitter  : bernhard_rieder
-  linkedin : bernhard-rieder
-  facebook : rieder.bernhard
+  email    : bolitto.walter@gmail.com
+  github   : Bolitto
+  twitter  : 
+  linkedin : walter-bolitto-carvalho-851290120
+  facebook : 
 
 
 # Collections
