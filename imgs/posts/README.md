@@ -1,0 +1,1 @@
+Imagens referente às postagens.
