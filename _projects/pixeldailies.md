@@ -1,7 +1,7 @@
 ---
 name: Pixel Dailies
 tools: [2019]
-image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/casainvisivel1.jpg
+image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/pixeldailies/choice240719.gif
 description: Desafios diários temáticos e temáticos de Pixel Art. 
 ---
 
