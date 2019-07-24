@@ -1,1 +1,1 @@
-Imagens do Pixel Dailies
+Imagens dos Pixel Dailies
