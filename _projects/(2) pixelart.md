@@ -1,6 +1,6 @@
 ---
 name: Pixel Art
-tools: [2019]
+tools: [2019-presente]
 image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/pixeldailies/choice240719.gif
 description: Portfólio de Pixel Art 
 ---
