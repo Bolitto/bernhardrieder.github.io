@@ -11,7 +11,7 @@ Derivas é um instrumento de experimentações engajadas no campo dos videogames
 
 ## Fatura-se
 
-Fatura-se trata-se de uma narrativa interativa, e no papel de um reitor escolhido pelo Bolsonaro, você deve tomar decisões para fazer com que o projeto do ministério, o Fatura-se, funcione a todo custo. 
+Fatura-se trata-se de uma narrativa interativa, e no papel de um reitor escolhido pelo governo, você deve tomar decisões para fazer com que o projeto do ministério, o Fatura-se, funcione a todo custo. 
 https://derivas.itch.io/fatura-se
 
 ![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/derivas2.png)
