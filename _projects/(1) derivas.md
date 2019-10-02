@@ -1,6 +1,6 @@
 ---
 name: Derivas
-tools: [2019]
+tools: [2019-presente]
 image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/derivas1.png
 description: Derivas é um instrumento de experimentações engajadas no campo dos videogames. Investigando o papel da educação através de jogos e simulações, é possível construir críticas e utopias de forma popular e democrática.
 ---
