@@ -1,7 +1,7 @@
 # Site settings
 title: Walter Bolitto Carvalho
 description: >- # this means to ignore newlines until "baseurl:"
-  Edtech / Jogos sérios / Cultura Maker
+  Educação e Tecnologia / Jogos educacionais / Simulações subversivas
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://bolitto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: bernhardrieder
