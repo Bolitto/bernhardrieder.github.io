@@ -19,7 +19,7 @@ author:
   image    : "/assets/capa.jpeg"
   email    : bolitto.walter@gmail.com
   github   : Bolitto
-  twitter  : 
+  twitter  : derivascc
   linkedin : walter-bolitto-carvalho-851290120
   facebook : 
 
@@ -52,4 +52,4 @@ exclude:
 - Gemfile
 - Gemfile.lock
 
-timezone: Europe/Vienna
+timezone:
