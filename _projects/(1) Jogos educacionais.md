@@ -1,8 +1,8 @@
 ---
 name: Jogos educacionais
 tools: [2019-presente]
-image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/jogoseducacionais1.jpeg
-description: Em construção.
+image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpeg
+description: Jogos educacionais voltados ao ensino de ciências naturais.
 ---
 
 # https://bolitto.itch.io/
