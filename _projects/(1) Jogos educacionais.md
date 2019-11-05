@@ -5,6 +5,15 @@ image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/p
 description: Em construção.
 ---
 
-# Jogos educacionais
+# https://bolitto.itch.io/
 
-Em construção.
+Considerando o potencial das práticas culturais e educacionais ao redor do desenvolvimento e do uso de jogos, enquanto educação formal e informal, é relevante o desenvolvimento de atividades, em especial as conectadas com a divulgação científica, de jogos que podem colaborar com o compartilhamento de conhecimento e desenvolvimento de novas habilidades.
+
+## Pseudociência
+
+Pseudociência é um jogo de cartas com mecânicas de dedução. Foi projetado como ferramenta mediadora do problema da demarcação, introduzindo jovens à noções de princípios científicos e não-científicos, possibilitando assim um debate sobre a definição de ciência em sala de aula. Ao mesmo tempo pode ser jogado como um jogo festivo com seus amigos enquanto você espera que seu orientador termine de revisar o pré-projeto de sua dissertação. 
+
+https://bolitto.itch.io/pseudociencia
+
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpeg)
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo2.jpeg)
