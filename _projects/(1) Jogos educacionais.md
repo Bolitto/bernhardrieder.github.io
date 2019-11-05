@@ -1,7 +1,7 @@
 ---
 name: Jogos educacionais
 tools: [2019-presente]
-image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpeg
+image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpg
 description: Jogos educacionais voltados ao ensino de ciências naturais.
 ---
 
@@ -15,5 +15,5 @@ Pseudociência é um jogo de cartas com mecânicas de dedução. Foi projetado c
 
 https://bolitto.itch.io/pseudociencia
 
-![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpeg)
-![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo2.jpeg)
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpg)
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo2.jpg)
