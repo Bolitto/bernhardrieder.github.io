@@ -2,7 +2,7 @@
 name: Jogos educacionais
 tools: [2019-presente]
 image: https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpg
-description: Jogos educacionais voltados ao ensino de ciências naturais.
+description: Jogos educacionais voltados ao ensino de ciências naturais, fomentando assim o uso de novas práticas pedagógicas no ambiente escolar
 ---
 
 # https://bolitto.itch.io/
