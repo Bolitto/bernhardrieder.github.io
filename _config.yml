@@ -1,7 +1,7 @@
 # Site settings
-title: Walter Bolitto Carvalho
+title: Walter Bolitto
 description: >- # this means to ignore newlines until "baseurl:"
-  Educação e Tecnologia / Jogos educacionais / Simulações subversivas
+   Educador e desenvolvedor de jogos de São Paulo
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://bolitto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: bernhardrieder
@@ -15,12 +15,12 @@ markdown: kramdown
 
 # Author Info
 author:
-  name     : Walter Bolitto Carvalho
-  image    : "/assets/capa.jpeg"
+  name     : Walter Bolitto 
+  image    : ""
   email    : bolitto.walter@gmail.com
   github   : Bolitto
-  twitter  : derivascc
-  linkedin : walter-bolitto-carvalho-851290120
+  twitter  : bolittow
+  linkedin : 
   facebook : 
 
 
