@@ -16,15 +16,17 @@ Derivas é um instrumento de experimentações engajadas no campo dos videogames
 
 O jogo A Voz do Operário apresenta uma narrativa da luta dos operários do ABC em meio a um contexto de crise econômica, de repressão e censura pela Ditadura Militar, mostrando algumas das táticas adotadas nas reivindicações da classe trabalhadora, e como as formas de organização possibilitaram a consolidação dessa classe como sujeito político que antagonizava com a classe dominante no cenário político brasileiro. O jogo foi desenvolvido no contexto da _Workers Game Jam 2020_, organizada pelos grupos _Game Workers Unite UK_ e _Notes From Below._
 
-[https://derivas.itch.io/a-voz-do-operario](https://derivas.itch.io/a-voz-do-operario "https://derivas.itch.io/a-voz-do-operario")
+<a href="[https://derivas.itch.io/a-voz-do-operario](https://derivas.itch.io/a-voz-do-operario "https://derivas.itch.io/a-voz-do-operario")">[https://derivas.itch.io/a-voz-do-operario](https://derivas.itch.io/a-voz-do-operario "https://derivas.itch.io/a-voz-do-operario")</a>
 
 Textos sobre o jogo
 
-[https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/](https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/ "https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/")
+<a href="[https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/](https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/ "https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/")">[https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/](https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/ "https://jacobin.com.br/2020/10/por-que-a-luta-socialista-nos-games-chegou-para-ficar/")</a>
 
-[https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/](https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/ "https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/")
+<a href="[https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/](https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/ "https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/")">[https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/](https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/ "https://digilabour.com.br/2020/07/25/jogos-sem-vergonha-de-serem-marxistas-no-workers-game-jam/")</a>
 
-[https://notesfrombelow.org/issue/workers-game-jam-2020](https://notesfrombelow.org/issue/workers-game-jam-2020 "https://notesfrombelow.org/issue/workers-game-jam-2020")
+<a href="[https://notesfrombelow.org/issue/workers-game-jam-2020](https://notesfrombelow.org/issue/workers-game-jam-2020 "https://notesfrombelow.org/issue/workers-game-jam-2020")">[https://notesfrombelow.org/issue/workers-game-jam-2020](https://notesfrombelow.org/issue/workers-game-jam-2020 "https://notesfrombelow.org/issue/workers-game-jam-2020")</a>
+
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/derivas/voz1.png)
 
 ![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/derivas/voz1.png)
 
