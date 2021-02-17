@@ -1,15 +1,56 @@
 ---
-title: Criação de games e narrativas interativas com o Twine
-tags: [Curso]
+title: Esports, trabalho e a PLS 383/2017
+tags: []
 style: fill
 color: info
 description: Curso ministrado na Universidade Federal do ABC nos dias 08, 15 e 29/junho/2019
 ---
 
-Na contramão das novas ferramentas de criação de jogos, que exigem grandes equipes e oferecem jogos de mundo aberto com gráficos modernos, softwares como RPG Maker e Twine oferecem voz para pessoas sem conhecimentos nesta área para se expressarem dentro da linguagem dos jogos digitais. A ferramenta Twine, criada em 2009, teve um papel relevante em 2012 com a “Revolução Twine”, movimento criado por desenvolvedores de jogos da comunidade LGBTQ, popularizado pela criação de jogos que abordam gênero e sexualidade, difundindo a ferramenta até a atualidade. O minicurso teve como objetivo o desenvolvimento de jogos, de forma individual ou por pequenos grupos, com a ferramenta Twine, e também a divulgação desses jogos no espaço após o término do curso. Além do debate sobre o uso de novas mídias para construção de histórias pessoais e narrativas interativas, também focou nos conhecimentos básicos em linguagens de programação, e busca oferecer autonomia na criação de jogos.
+Texto publicado originalmente no Página 13: https://www.pagina13.org.br/esports-trabalho-e-a-pls-383-2017/
 
-O Twine é uma ferramenta de criação de histórias interativas e não lineares, utilizada no desenvolvimento de jogos e que não exige habilidades de programação do desenvolvedor. O minicurso teve como objetivo a construção de um jogo, e além das interações narrativas por hiperlinks, abordou HTML, CSS e Javascript. O curso faz parte do projeto de Extensão Diversão Séria, do Laboratório de Informações em Rede e Tecnologias Educacionais, ministrado na Universidade Federal do ABC nos dias 08, 15 e 29/junho/2019.
+Observamos a cada ano o surgimento e a popularização de novas tecnologias e, em alguns casos, o surgimento de uma massa de trabalho precarizado ao redor delas. Com o crescimento da indústria dos jogos digitais, e a introdução das tecnologias no cotidiano das novas gerações, nota-se uma romantização por profissões conectadas a esta indústria, como no caso do desenvolvedor de jogos, promotores de eventos, streamers (incluindo também os youtubers dedicados a jogos) e jogadores profissionais. Isso ocorre pela enganosa percepção da junção do sentimento de diversão no ato de jogar com a formalidade do trabalho, e isso geralmente afeta a forma que o trabalhador encara sua profissão.
 
-<u><a href="https://github.com/Bolitto/Aulas/tree/master/Divers%C3%A3o%20S%C3%A9ria%202019%20-%20Twine">Pasta com slides e modelos de CSS discutidos em sala.</a></u>
+Neste cenário, está sendo debatida a PLS 383/2017, que dispõe sobre a regulamentação da prática esportiva eletrônica, diz respeito aos jogadores e times profissionais que participam de torneios de diferentes jogos populares da atualidade, e foi possível observar uma movimentação nas redes sociais contra esse projeto de lei.
 
-![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/posts/cartaz-minicurso-twine.jpeg)
+Apesar da suposta noção do privilégio de se trabalhar jogando de forma profissional, observa-se uma precarização muito grande na profissão e uma desigual distribuição da renda obtida pelos diferentes jogadores profissionais, já que observa-se mundialmente diferentes relações contratuais, onde em alguns casos o jogador recebe um salário do time que está integrado, e em outros cenários o jogador recebe apenas uma parcela dos valores obtidos em torneios no caso de ser vitorioso.
+
+Sua condição de trabalho também não é privilegiada, já que se observa em diversos casos uma prática originada na Coréia do Sul, onde diferentes equipes forçam seus jogadores profissionais a morar em uma mesma casa e treinar o dia inteiro juntos, com poucas horas de sono e diminuição do convívio social desses empregados fora do ambiente de trabalho, com o objetivo de criar uma sinergia do time e melhorar as habilidades em situações competitivas.
+
+Outros pontos baixos na carreira do jogador profissional é o ciclo de vida dos jogos, que dura em média 5 anos, e não basta ser o melhor do jogo, é também necessário uma grande comunidade ao redor dele para gerar o interesse de patrocínio das grandes marcas de peças de computadores e empresas de consoles; e o tempo de carreira curto destes jogadores, já que a partir dos 30 anos, o jogador não terá mais o reflexo e a velocidade que tinha antes quando começou sua carreira, além das opções de carreiras após essa idade serem mais limitadas que os trabalhadores de esportes tradicionais, e em muitos casos o jogador abandona a escola para se aventurar como jogador profissional.
+
+A comunidade gamer é composta por donos de times de esports, jogadores profissionais e semi-profissionais, streamers e fãs em geral; e na data de 20/11/19 houve uma movimentação de parte desta comunidade reagindo contra a PLS 383/2017 com a hashtag #TodosContraPLS383, sendo possível analisar as contas que deram início a movimentação contra o projeto de lei e as principais pautas envolvidas por meio de análise de redes.
+
+De um total de 7711 tweets, 1415 tweets podem ser considerados como conteúdos originais, sendo retweetados 6296 vezes entre os dias 20/11 e 22/11.
+
+![](https://i.imgur.com/9jvd6CG.png)
+
+Gráfico com tweets e retweets da campanha
+
+![](https://i.imgur.com/4AMCyKf.png)
+
+Perfis mais proeminentes no debate
+
+Com base na lista dos perfis mais proeminentes no debate (definidos por menções, respostas e retweets), viabiliza-se a análise das narrativas criadas pelas principais figuras que puxaram a hashtag #TodosContraPLS383. Do ponto de vista de classe, é possível ver que 50% dos perfis mais proeminentes (donos de times e páginas de times de esports) são os maiores beneficiados da não-definição de jogadores profissionais como atletas, por serem os principais exploradores da sua força de trabalho.
+
+O principal tweet publicado pelos principais perfis, apesar de não se tratar de um retweet, segue com o mesmo texto entre os diferentes articuladores da campanha:
+
+“Convocamos a todos que torcem, que trabalham e que acreditam nos #esports que divulguem ao máximo esse aviso! Nosso cenário está sob ataque, sob ameaça de burocratização e de perda de competitividade”
+
+A narrativa afirma que o projeto de lei vai na contramão do que é a competitividade do mercado e gera burocratização do setor. Esse mesmo argumento é observado em outros empregos precários gerados com as recentes tecnologias, como no caso de motoristas de Uber e entregadores de aplicativo. A comunidade que retweetou a campanha se dá a jogadores semi-profissionais e streamers menos populares, aspirantes a entrar no cenário competitivo dos jogadores profissionais, e fãs do esporte.
+
+Algo relevante ao debate do esport a nível mundial é que da mesma forma da indústria de jogos, a tentativa de organização por parte de desenvolvedores de jogos e jogadores profissionais em categorias profissionais leva a exclusão dessas figuras do mercado mainstream, sendo taxados como profissionais problemáticos não adaptados ao mercado moderno de jogos, mesmo com a grande precarização existente na área.
+
+![](https://i.imgur.com/7pJIMah.png)
+
+![](https://i.imgur.com/4AMCyKf.png)
+
+Mapa de grafos e tabela com as principais comunidades
+
+O comportamento do grafo e algoritmos presentes no software de análise de redes Gephi oferecem dados adicionais sobre a campanha realizada: a baixa densidade aponta que os membros da rede não são integrados, evidenciando que a definição da narrativa da campanha se dá principalmente pelos principais articuladores (os perfis mais proeminentes); o valor intermediário de modularidade aponta que não há necessariamente divisões claras entre as comunidades. Uma comunidade que pode ser observada com ajuda do grafo (não sendo evidenciada anteriormente) é o perfil político, essa comunidade é a principal a levar a ultra-política ao debate com esta hashtag, questionando a capacidade da política de intervir na pauta de esports, isso evidencia a necessidade da esquerda de também participar da construção deste debate, lutando contra a precarização dos profissionais desta área supostamente privilegiada.
+
+Esta indústria bilionária continua a crescer em cima de trabalhadores precarizados que não reagem com medo de serem afastados de um trabalho que permitem fazer o que gosta, e as vozes dos grupos exploradores continuam a moldar o pensamento da comunidade, além de boa parte desta ideologia ser transmitida de tempos em tempos nos jogos mais populares da comunidade gamer.
+
+A organização que possibilitará melhores condições de vida a estes trabalhadores só será construída com a a ocupação de grupos do campo popular e democrático nestes espaços, através da produção de jogos políticos, blogs que insiram minorias nos debates da comunidade gamer, e o processo de politização dos trabalhadores que atuam na indústria dos jogos digitais.
+
+Walter Bolitto Carvalho é militante petista, pós-graduando em Educação e Tecnologia pela UFSCar, desenvolve games políticos e investiga a relação de jogos e seu papel na educação.
+
