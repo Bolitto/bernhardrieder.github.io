@@ -26,6 +26,10 @@ Textos sobre o jogo
 
 [https://notesfrombelow.org/issue/workers-game-jam-2020](https://notesfrombelow.org/issue/workers-game-jam-2020 "https://notesfrombelow.org/issue/workers-game-jam-2020")
 
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/derivas/voz1.png)
+
+![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/derivas/voz2.png)
+
 ## Amazônia 1819 (2019)
 
 No Brasil Colônia de 1819, você desbrava os desastres florestais recentes na Amazônia. Investigar e denunciar o culpado é perigoso, já que a conspiração pode envolver desde lideranças locais à corte real e grupos internacionais.
