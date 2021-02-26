@@ -14,13 +14,9 @@ Exemplo de jogos desenvolvidos durante o curso:
 
 ![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/twine/lab_twine2.png)
 
-Informações sobre o curso dado em junho de 2019 - 
+[Informações sobre o curso dado em junho de 2019](http://pesquisa.ufabc.edu.br/lirte/diversaoseria/twine2019) -
 
-http://pesquisa.ufabc.edu.br/lirte/diversaoseria/twine2019
-
-https://github.com/Bolitto/Aulas/tree/master/Divers%C3%A3o%20S%C3%A9ria%202019%20-%20Twine
-
-Pasta com slides e modelos de CSS discutidos em sala.
+[Pasta com slides e modelos de CSS discutidos em sala.](https://github.com/Bolitto/Aulas/tree/master/Divers%C3%A3o%20S%C3%A9ria%202019%20-%20Twine)
 
 Cartaz do curso
 
