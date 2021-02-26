@@ -15,7 +15,7 @@ Considerando o potencial das práticas culturais e educacionais ao redor do dese
 
 Pseudociência é um jogo de cartas com mecânicas de dedução. Foi projetado como ferramenta mediadora do problema da demarcação, introduzindo jovens à noções de princípios científicos e não-científicos, possibilitando assim um debate sobre a definição de ciência em sala de aula. Ao mesmo tempo pode ser jogado como um jogo festivo com seus amigos enquanto você espera que seu orientador termine de revisar o pré-projeto de sua dissertação.
 
-<a href="[https://bolitto.itch.io/pseudociencia](https://bolitto.itch.io/pseudociencia "https://bolitto.itch.io/pseudociencia")">https://bolitto.itch.io/pseudociencia</a>
+https://bolitto.itch.io/pseudociencia
 
 ![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo1.jpg)
 ![](https://raw.githubusercontent.com/Bolitto/bolitto.github.io/master/imgs/projetos/bolitto/pseudo2.jpg)
